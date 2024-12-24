@@ -1,4 +1,4 @@
-def santa_sleign
+def santa_sleigh
   santa = "🎅🚀"
   snow = ['*', 'o', '.', '+']
   width = 40
@@ -12,4 +12,4 @@ def santa_sleign
   end
 end
 
-santa_sleign
+santa_sleigh
